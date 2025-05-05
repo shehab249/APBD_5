@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Trips.API.props" />
+</Project>

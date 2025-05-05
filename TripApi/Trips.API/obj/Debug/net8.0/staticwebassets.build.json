@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zZpLwJZsqlSkzHmdXuV/tiPIjuYkcw3vqjSpLIb/mik=",
+  "Source": "Trips.API",
+  "BasePath": "_content/Trips.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
